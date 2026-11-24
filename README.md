@@ -1,5 +1,8 @@
 # Pràctica 3: Sockets (servidor FTP i clients)
 
+![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
+![PSP](https://img.shields.io/badge/assignatura-PSP-teal)
+
 Pràctica 3 de l'assignatura de Programació de Serveis i Processos (PSP) del CFGS de Desenvolupament d'Aplicacions Multiplataforma. Consisteix en un **servidor FTP propi sobre sockets TCP** i dos clients, un per a Linux i un altre per a Windows, escrits en C/C++.
 
 ## Components
